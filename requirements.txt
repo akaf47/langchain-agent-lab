@@ -1,0 +1,6 @@
+langchain-anthropic
+langchain-community
+langchain-core
+langgraph
+python-dotenv
+tavily-python>=0.0.1  # (Required for Tavily integration)
